@@ -16,6 +16,6 @@ Bootstrap Kütüphanesi kullanıldı.
 
 # Ekran GÖrüntüsü
 
-![Ekran GÖrüntüsü](/home/fthkrgz/Desktop/Projects/project -8 udeSchool/BS.gif)
+![Ekran GÖrüntüsü](ezgif.com-video-to-gif.gif)
 
 
